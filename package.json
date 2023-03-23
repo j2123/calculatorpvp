@@ -1,0 +1,16 @@
+{
+    "name":"calculator",
+    "version":"0.0.1",
+    "main":"calc",
+    "repository":{
+        "type":"git",
+        "url":"https://github.com/j2123/calculator"
+    },
+    "keywords":[
+        "calc","calculator"
+    ],
+    "dependencies":{},
+    "engines":{
+        "node":"*"
+    }
+}
